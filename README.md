@@ -3,7 +3,7 @@ verses
 
 ## What's in the repository
 
-This repository includes a json file 31,103 verses formated by book, chapter, verse.
+This repository includes a json file with 31,103 verses formated by book, chapter, verse.
 
 ## Bible Used in this project
 
